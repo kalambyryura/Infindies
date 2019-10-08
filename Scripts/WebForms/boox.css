@@ -1,0 +1,30 @@
+﻿.coontainer
+{
+    overflow:hidden; width:100%;  border:3px solid black
+
+}
+.coontainer1
+{
+    overflow:hidden;
+    width:20% ;
+    top: 10px;
+    
+}
+
+.coontainer3
+{
+    overflow:hidden;
+    width:50% ;
+    top: 10px;
+    left: 1000px;
+}
+.boox
+{
+    white-space:nowrap; 
+
+}
+.boox div
+{
+    width:50%;display:inline-block; 
+
+}
